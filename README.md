@@ -22,6 +22,34 @@
 
 **CIRCUIT DIAGRAM:**
 
+
+<img width="814" height="365" alt="image" src="https://github.com/user-attachments/assets/dc542e81-5c04-41e9-af2d-8967caafadb8" />
+
+
+TABLE:
+
+
+ <img width="792" height="499" alt="image" src="https://github.com/user-attachments/assets/66345bf8-5e7b-4ccf-acc8-308451565ce2" />
+
+
+THEORETICAL CALCULATION :
+
+
+
+<img width="777" height="863" alt="image" src="https://github.com/user-attachments/assets/55a145d5-840e-44ff-8bb5-e403dad887fb" />
+
+
+
+<img width="670" height="809" alt="image" src="https://github.com/user-attachments/assets/52534d67-ab0c-4f31-8bd7-62e7287878c2" />
+
+
+MARK SPLITUP:
+
+
+![WhatsApp Image 2026-04-06 at 2 13 41 PM](https://github.com/user-attachments/assets/27546282-cd7c-42c6-afce-969a7716802c)
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
